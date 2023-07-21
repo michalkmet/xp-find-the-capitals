@@ -37,4 +37,7 @@ describe('Story3 (TechDebt): User can pass invalid input, it should throw an err
   it('UAT3.2 - User can pass null, it should throw an error', () => {
     expect(() => findTheCapitals(null)).toThrow('Invalid input');
   });
+  it('UAT3.3 - User can pass [1], it should throw an error', () => {
+    expect(() => findTheCapitals([1])).toThrow('Invalid input');
+  });
 });
