@@ -1,5 +1,5 @@
 function findTheCapitals() {
-  return 'string';
+  return [0];
 }
 
 module.exports = findTheCapitals;
