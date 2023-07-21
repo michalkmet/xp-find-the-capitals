@@ -1,3 +1,3 @@
 # Techdebt
 
-- Handling inputs
+- ✅ Handling inputs - solved in story 3

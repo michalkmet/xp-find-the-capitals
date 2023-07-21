@@ -29,3 +29,9 @@ describe('Story2: User can pass string, it should return index of capital', () =
     expect(findTheCapitals('123')).toStrictEqual([]);
   });
 });
+
+describe('Story3 (TechDebt): User can pass invalid input, it should throw an error', () => {
+  it('UAT3.2 - User can pass null, it should throw an error', () => {
+    expect(() => findTheCapitals(null)).toThrow('Invalid input');
+  });
+});

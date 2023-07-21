@@ -27,12 +27,13 @@ Pomodoro - 3: Michal Driver, Anna Nav
 - 🚧 UAT2.2 - User can pass "aa", it should return []
 
 Pomodoro - 4: Martin Driver, Aljosa Nav
-- ✅  UAT2.2 - User can pass "aa", it should return []
-- ✅  UAT2.3 - User can pass "CDE", it should return [0,1,2]
-- ✅  UAT2.4 - User can pass "CdE", it should return [0,2]
-- ✅  UAT2.5 - User can pass "cdE", it should return [2]
+- ✅ UAT2.2 - User can pass "aa", it should return []
+- ✅ UAT2.3 - User can pass "CDE", it should return [0,1,2]
+- ✅ UAT2.4 - User can pass "CdE", it should return [0,2]
+- ✅ UAT2.5 - User can pass "cdE", it should return [2]
 
 Pomodoro - 5: Anna Driver, Michal Nav
 - ✅ UAT2.6 - User can pass "123", it should return []
-
-## Work
+- ⚠ UAT3.1 - User can pass 123, it should throw an error
+- ✅ TODO UAT3.2 - User can pass null, it should throw an error
+- ⚠ TODO UAT3.3 - User can pass [1], it should throw an error
