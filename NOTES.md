@@ -48,4 +48,4 @@ Pomodoro - 7: Anna Nav, Michal Driver
 - 🚧 experimental refactor - using array.map func
 
 Pomodoro - 8: Martin Nav, Aljosa Driver
-- 🚧 experimental refactor - using array.map func
+- ✅ experimental refactor - using array.map func

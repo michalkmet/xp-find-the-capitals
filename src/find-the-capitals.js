@@ -7,13 +7,7 @@ function findTheCapitals(string) {
   // }
   // return result;
 
-  return [...string].map((char, index) => {
-      if (char !== char.toLowerCase()) {
-        return index;
-      }
-  }).filter((results) => {
-    return typeof results === 'number';
-  });
+  return [...string].map((char, index) => (char !== char.toLowerCase() ? index : -1)).filter((i) => i > -1);
 }
 
 module.exports = findTheCapitals;
