@@ -22,4 +22,7 @@ describe('Story2: User can pass string, it should return index of capital', () =
   it('UAT2.4 - User can pass "CdE", it should return [0,2]', () => {
     expect(findTheCapitals('CdE')).toStrictEqual([0, 2]);
   });
+  it('UAT2.5 - User can pass "cdE", it should return [2]', () => {
+    expect(findTheCapitals('cdE')).toStrictEqual([2]);
+  });
 });
