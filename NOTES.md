@@ -24,5 +24,6 @@ Pomodoro - 2: Martin Nav, Aljosa Driver
 Pomodoro - 3: Michal Driver, Anna Nav
 - ✅ UAT1.2 - User can pass "a", it should return []
 - ✅ UAT2.1 - User can pass "aA", it should return [1]
+- 🚧 UAT2.2 - User can pass "aa", it should return []
 
 ## Work
