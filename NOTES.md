@@ -44,5 +44,8 @@ Pomodoro - 6: Martin Nav, Aljosa Driver
 - ✅ code style refactor
 - 🚧 experimental refactor - using array.map func
 
-Pomodoro - 6: Anna Nav, Michal Driver
+Pomodoro - 7: Anna Nav, Michal Driver
+- 🚧 experimental refactor - using array.map func
+
+Pomodoro - 8: Martin Nav, Aljosa Driver
 - 🚧 experimental refactor - using array.map func

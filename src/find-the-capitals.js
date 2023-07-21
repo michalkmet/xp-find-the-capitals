@@ -8,15 +8,12 @@ function findTheCapitals(string) {
   // return result;
 
   return [...string].map((char, index) => {
-      console.log('char: ', char);
-      console.log('index: ', index);
       if (char !== char.toLowerCase()) {
         return index;
       }
   }).filter((results) => {
-    typeof results === 'number';
+    return typeof results === 'number';
   });
-  // return result;
 }
 
 module.exports = findTheCapitals;
