@@ -1,5 +1,5 @@
 function findTheCapitals(string) {
-  if (!string) {
+  if (typeof string != 'string') {
     throw new Error('Invalid input');
   }
   let result = [];

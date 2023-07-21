@@ -35,5 +35,8 @@ Pomodoro - 4: Martin Driver, Aljosa Nav
 Pomodoro - 5: Anna Driver, Michal Nav
 - ✅ UAT2.6 - User can pass "123", it should return []
 - 🚧 UAT3.1 - User can pass 123, it should throw an error
-- ✅ TODO UAT3.2 - User can pass null, it should throw an error
+- ✅ UAT3.2 - User can pass null, it should throw an error
 - ⚠ TODO UAT3.3 - User can pass [1], it should throw an error
+
+Pomodoro - 6: Martin Nav, Aljosa Driver
+- ✅ UAT3.1 - User can pass 123, it should throw an error
