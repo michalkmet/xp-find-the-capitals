@@ -41,3 +41,4 @@ Pomodoro - 5: Anna Driver, Michal Nav
 Pomodoro - 6: Martin Nav, Aljosa Driver
 - ✅ UAT3.1 - User can pass 123, it should throw an error
 - ✅ UAT3.3 - User can pass [1], it should throw an error
+- ✅ code style refactor
