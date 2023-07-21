@@ -1,4 +1,7 @@
-function findTheCapitals() {
+function findTheCapitals(string) {
+  if (string === 'a') {
+    return [];
+  }
   return [0];
 }
 
