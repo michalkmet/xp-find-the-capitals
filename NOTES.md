@@ -26,4 +26,8 @@ Pomodoro - 3: Michal Driver, Anna Nav
 - ✅ UAT2.1 - User can pass "aA", it should return [1]
 - 🚧 UAT2.2 - User can pass "aa", it should return []
 
+Pomodoro - 4: Martin Driver, Aljosa Nav
+- ✅  UAT2.2 - User can pass "aa", it should return []
+- ✅   UAT2.3 - User can pass "CDE", it should return [0,1,2]
+
 ## Work

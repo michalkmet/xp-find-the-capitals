@@ -1,10 +1,12 @@
 function findTheCapitals(string) {
-  if (string === 'a') {
-    return [];
-  } else if (string === 'aA') {
-    return [1];
+  let result = [];
+  for (let i = 0; i < string.length; i++) {
+    if (string[i] !== string[i].toLowerCase()) {
+      result.push(i);
+      console.log(i);
+    }
   }
-  return [0];
+  return result;
 }
 
 module.exports = findTheCapitals;
