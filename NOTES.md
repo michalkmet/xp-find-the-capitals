@@ -43,3 +43,6 @@ Pomodoro - 6: Martin Nav, Aljosa Driver
 - ✅ UAT3.3 - User can pass [1], it should throw an error
 - ✅ code style refactor
 - 🚧 experimental refactor - using array.map func
+
+Pomodoro - 6: Anna Nav, Michal Driver
+- 🚧 experimental refactor - using array.map func
