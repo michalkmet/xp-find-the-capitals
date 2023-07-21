@@ -23,3 +23,9 @@ Story2: User can pass string, it should return index of capital
 - ⚠ TODO UAT2.3 - User can pass 'CDE', it should return [0,1,2]
 - ⚠ TODO UAT2.4 - User can pass 'CdE', it should return [0,2]
 - ⚠ TODO UAT2.5 - User can pass 'cdE', it should return [2]
+- ⚠ TODO UAT2.6 - User can pass '123', it should return []
+
+Story3 (TechDebt): User can pass invalid input, it should throw an error
+- ⚠ TODO UAT3.1 - User can pass 123, it should throw an error
+- ⚠ TODO UAT3.2 - User can pass null, it should throw an error
+- ⚠ TODO UAT3.1 - User can pass [1], it should throw an error

@@ -15,4 +15,7 @@ Test.assertSimilar( capitals('CodEWaRs'), [0,3,4,6] );
 
 Pomodoro - 1: Michal Nav, Anna Driver
 - ✅ Initial refactor
-- 🚧 User stories
+- ✅ User stories
+
+Pomodoro - 2: Martin Nav, Aljosa Driver
+- ✅ User story 3
