@@ -3,7 +3,6 @@ function findTheCapitals(string) {
   for (let i = 0; i < string.length; i++) {
     if (string[i] !== string[i].toLowerCase()) {
       result.push(i);
-      console.log(i);
     }
   }
   return result;
