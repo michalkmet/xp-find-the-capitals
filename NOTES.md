@@ -19,10 +19,10 @@ Pomodoro - 1: Michal Nav, Anna Driver
 
 Pomodoro - 2: Martin Nav, Aljosa Driver
 - ✅ User story 3
-- ✅ TODO UAT1.1 - User can pass "A", it should return [0]
+- ✅ UAT1.1 - User can pass "A", it should return [0]
 
 Pomodoro - 3: Michal Driver, Anna Nav
-- 🚧 TODO UAT1.2 - User can pass "a", it should return []
-- ⚠ TODO UAT2.1 - User can pass "aA", it should return [1]
+- ✅ UAT1.2 - User can pass "a", it should return []
+- ✅ UAT2.1 - User can pass "aA", it should return [1]
 
 ## Work
